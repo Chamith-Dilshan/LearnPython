@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883e63b-df87-4490-954b-73c28959a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/building_a_polygon_area_calculator/polygon_area_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/building_a_linked_list/linked_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="47" />
+    <option name="cachedIndexableFilesCount" value="49" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -52,6 +52,7 @@
     "Python.handel_object_attributes_dynamically.executor": "Run",
     "Python.inheritance.executor": "Run",
     "Python.isbn_validator.executor": "Run",
+    "Python.linked_list.executor": "Run",
     "Python.media_catelogue.executor": "Run",
     "Python.musical_instrument_inventory.executor": "Run",
     "Python.name_mangling.executor": "Run",
@@ -84,7 +85,7 @@
       <recent name="C:\SystemApplications\PythonProjects\PythonBasic\building_a_email_simulator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.polygon_area_calculator">
+  <component name="RunManager" selected="Python.linked_list">
     <configuration name="abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
@@ -135,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="media_catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,14 +145,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/building_a_media_catelogue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/building_a_linked_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\SystemApplications\PythonProjects\PythonBasic\building_a_media_catelogue\media_catalogue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/building_a_linked_list/linked_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.linked_list" />
         <item itemvalue="Python.polygon_area_calculator" />
         <item itemvalue="Python.player_interface" />
         <item itemvalue="Python.discount_calculator" />
         <item itemvalue="Python.abstraction" />
-        <item itemvalue="Python.media_catalogue" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +247,9 @@
       <workItem from="1784691325441" duration="2910000" />
       <workItem from="1784737885871" duration="1880000" />
       <workItem from="1784823107545" duration="1016000" />
-      <workItem from="1784907784036" duration="4089000" />
+      <workItem from="1784907784036" duration="4144000" />
+      <workItem from="1785043708056" duration="298000" />
+      <workItem from="1787567244962" duration="4232000" />
     </task>
     <servers />
   </component>
