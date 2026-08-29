@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883e63b-df87-4490-954b-73c28959a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/building_a_hash_table/hash_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonbasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonbasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/binary_search/binary_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="50" />
+    <option name="cachedIndexableFilesCount" value="51" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -50,49 +46,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.abstraction.executor": "Run",
-    "Python.budget_app.executor": "Run",
-    "Python.character_status_tracker.executor": "Run",
-    "Python.discount_calculator.executor": "Run",
-    "Python.email_simulator (1).executor": "Run",
-    "Python.encapsulation.executor": "Run",
-    "Python.handel_object_attributes_dynamically.executor": "Run",
-    "Python.hash_table.executor": "Run",
-    "Python.inheritance.executor": "Run",
-    "Python.isbn_validator.executor": "Run",
-    "Python.linked_list.executor": "Run",
-    "Python.loops.executor": "Run",
-    "Python.media_catelogue.executor": "Run",
-    "Python.musical_instrument_inventory.executor": "Run",
-    "Python.name_mangling.executor": "Run",
-    "Python.player_interface.executor": "Run",
-    "Python.polygon_area_calculator.executor": "Run",
-    "Python.polymorphism.executor": "Run",
-    "Python.properties.executor": "Run",
-    "Python.salary_tracker.executor": "Run",
-    "Python.special_methods.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/SystemApplications/PythonProjects/PythonBasic",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.python.pyright.PyrightConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.budget_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.character_status_tracker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.discount_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.email_simulator (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.handel_object_attributes_dynamically.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isbn_validator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linked_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.media_catelogue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.musical_instrument_inventory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.name_mangling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.player_interface.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polygon_area_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.properties.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salary_tracker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.special_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SystemApplications/PythonProjects/PythonBasic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.python.pyright.PyrightConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\SystemApplications\PythonProjects\PythonBasic\building_a_email_simulator" />
@@ -264,7 +260,8 @@
       <workItem from="1785043708056" duration="298000" />
       <workItem from="1787567244962" duration="4501000" />
       <workItem from="1787622715975" duration="631000" />
-      <workItem from="1787638535810" duration="2641000" />
+      <workItem from="1787638535810" duration="2970000" />
+      <workItem from="1788030005405" duration="137000" />
     </task>
     <servers />
   </component>
@@ -285,7 +282,7 @@
     <SUITE FILE_PATH="coverage/PythonBasic$special_methods.coverage" NAME="special_methods Coverage Results" MODIFIED="1784099192160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/PythonBasic$encapsulation.coverage" NAME="encapsulation Coverage Results" MODIFIED="1784353787880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
     <SUITE FILE_PATH="coverage/PythonBasic$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1784610813842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
-    <SUITE FILE_PATH="coverage/PythonBasic$hash_table.coverage" NAME="hash_table Coverage Results" MODIFIED="1787639642041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_hash_table" />
+    <SUITE FILE_PATH="coverage/PythonBasic$hash_table.coverage" NAME="hash_table Coverage Results" MODIFIED="1787641723640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_hash_table" />
     <SUITE FILE_PATH="coverage/PythonBasic$player_interface.coverage" NAME="player_interface Coverage Results" MODIFIED="1784908812503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_player_interface" />
     <SUITE FILE_PATH="coverage/PythonBasic$handel_object_attributes_dynamically.coverage" NAME="handel_object_attributes_dynamically Coverage Results" MODIFIED="1784212322785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/PythonBasic$abstraction.coverage" NAME="abstraction Coverage Results" MODIFIED="1784738362710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
