@@ -14,7 +14,7 @@
 
 
 def square_root_bisection(
-        number: float, tolerance: float = 0.01, maxiterations: int = 10
+    number: float, tolerance: float = 0.01, maxiterations: int = 10
 ):
     """
     Find the square root of n using the bisection method.
@@ -51,7 +51,7 @@ def square_root_bisection(
     # Keep bisecting until tolerance is met or max iterations reached
     while high - low > tolerance and iteration < maxiterations:
         mid = (low + high) / 2
-        square = mid ** 2
+        square = mid**2
 
         if square < number:
             low = mid

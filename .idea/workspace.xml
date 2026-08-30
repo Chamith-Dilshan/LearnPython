@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883e63b-df87-4490-954b-73c28959a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/square_root_bisection/square_root_bisection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/merge_sort/merge_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/square_root_bisection/square_root_bisection.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/square_root_bisection/square_root_bisection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="52" />
+    <option name="cachedIndexableFilesCount" value="53" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -62,6 +63,7 @@
     "Python.linked_list.executor": "Run",
     "Python.loops.executor": "Run",
     "Python.media_catelogue.executor": "Run",
+    "Python.merge_sort.executor": "Run",
     "Python.musical_instrument_inventory.executor": "Run",
     "Python.name_mangling.executor": "Run",
     "Python.player_interface.executor": "Run",
@@ -95,7 +97,7 @@
       <recent name="C:\SystemApplications\PythonProjects\PythonBasic\building_a_email_simulator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.square_root_bisection">
+  <component name="RunManager" selected="Python.merge_sort">
     <configuration name="hash_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
@@ -171,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="polygon_area_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,14 +182,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/building_a_polygon_area_calculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/merge_sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/building_a_polygon_area_calculator/polygon_area_calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/merge_sort/merge_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.merge_sort" />
         <item itemvalue="Python.square_root_bisection" />
         <item itemvalue="Python.hash_table" />
         <item itemvalue="Python.loops" />
         <item itemvalue="Python.linked_list" />
-        <item itemvalue="Python.polygon_area_calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +266,8 @@
       <workItem from="1787638535810" duration="2970000" />
       <workItem from="1788030005405" duration="193000" />
       <workItem from="1788061148772" duration="14000" />
-      <workItem from="1788061172219" duration="3494000" />
+      <workItem from="1788061172219" duration="4020000" />
+      <workItem from="1788080038682" duration="1740000" />
     </task>
     <servers />
   </component>
