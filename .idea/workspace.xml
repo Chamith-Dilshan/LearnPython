@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883e63b-df87-4490-954b-73c28959a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/adjacency_list_to_matrix_convertor/adjacency_list_to_matrix_convertor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/breadth_first_search_algorithm/breadth_first_search_algorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="61" />
+    <option name="cachedIndexableFilesCount" value="63" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -104,7 +103,7 @@
       <recent name="C:\SystemApplications\PythonProjects\PythonBasic\building_a_email_simulator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.adjacency_list_to_matrix_convertor">
+  <component name="RunManager" selected="Python.breadth_first_search_algorithm">
     <configuration name="adjacency_list_to_matrix_convertor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
@@ -130,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="luhn_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="breadth_first_search_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,14 +138,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/luhn_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/breadth_first_search_algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/luhn_algorithm/luhn_algorithm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/breadth_first_search_algorithm/breadth_first_search_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.breadth_first_search_algorithm" />
         <item itemvalue="Python.adjacency_list_to_matrix_convertor" />
         <item itemvalue="Python.shortest_path_algorithm" />
         <item itemvalue="Python.recursion" />
         <item itemvalue="Python.tower_of_hanoi_algorithm" />
-        <item itemvalue="Python.luhn_algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +278,7 @@
       <workItem from="1788108397081" duration="14000" />
       <workItem from="1788692445771" duration="11873000" />
       <workItem from="1788887129203" duration="322000" />
-      <workItem from="1789443757656" duration="1146000" />
+      <workItem from="1789443757656" duration="2474000" />
     </task>
     <servers />
   </component>
