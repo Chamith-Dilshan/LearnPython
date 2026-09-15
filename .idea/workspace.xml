@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883e63b-df87-4490-954b-73c28959a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/depth_first_search_algorithm/depth_first_search_algorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/ N-Queens_algorithm/n-queens_algorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
     "Python.media_catelogue.executor": "Run",
     "Python.merge_sort.executor": "Run",
     "Python.musical_instrument_inventory.executor": "Run",
+    "Python.n-queens_algorithm.executor": "Run",
     "Python.name_mangling.executor": "Run",
     "Python.player_interface.executor": "Run",
     "Python.polygon_area_calculator.executor": "Run",
@@ -106,7 +106,7 @@
       <recent name="C:\SystemApplications\PythonProjects\PythonBasic\building_a_email_simulator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.depth_first_search_algorithm">
+  <component name="RunManager" selected="Python.n-queens_algorithm">
     <configuration name="adjacency_list_to_matrix_convertor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
@@ -182,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="n-queens_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonbasic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,14 +191,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/ N-Queens_algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/ N-Queens_algorithm/n-queens_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.n-queens_algorithm" />
         <item itemvalue="Python.depth_first_search_algorithm" />
         <item itemvalue="Python.breadth_first_search_algorithm" />
         <item itemvalue="Python.adjacency_list_to_matrix_convertor" />
         <item itemvalue="Python.shortest_path_algorithm" />
-        <item itemvalue="Python.recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +281,7 @@
       <workItem from="1788108397081" duration="14000" />
       <workItem from="1788692445771" duration="11873000" />
       <workItem from="1788887129203" duration="322000" />
-      <workItem from="1789443757656" duration="3775000" />
+      <workItem from="1789443757656" duration="4299000" />
     </task>
     <servers />
   </component>
@@ -327,6 +327,7 @@
     <SUITE FILE_PATH="coverage/PythonBasic$polygon_area_calculator.coverage" NAME="polygon_area_calculator Coverage Results" MODIFIED="1784914719311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_polygon_area_calculator" />
     <SUITE FILE_PATH="coverage/PythonBasic$media_catelogue.coverage" NAME="media_catelogue Coverage Results" MODIFIED="1784650749898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/building_a_media_catelogue" />
     <SUITE FILE_PATH="coverage/PythonBasic$shortest_path_algorithm.coverage" NAME="shortest_path_algorithm Coverage Results" MODIFIED="1788887157410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/shortest_path_algorithm" />
+    <SUITE FILE_PATH="coverage/PythonBasic$n_queens_algorithm.coverage" NAME="n-queens_algorithm Coverage Results" MODIFIED="1789455100453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/ N-Queens_algorithm" />
     <SUITE FILE_PATH="coverage/PythonBasic$test.coverage" NAME="test Coverage Results" MODIFIED="1784219357081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/PythonBasic$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1788718815564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
   </component>
